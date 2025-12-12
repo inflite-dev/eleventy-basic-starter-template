@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/inflite-dev/eleventy-basic-starter-template.git"
   },
-  "license": "ISC",
-  "author": "",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
